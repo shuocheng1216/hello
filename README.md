@@ -1,3 +1,3 @@
-# hello
-my first repository
-第一次使用Github，先熟悉熟悉
+# 这个项目主要是关于机器人路径规划与路径跟踪的pytho实践
+1.移动姿势追踪
+
